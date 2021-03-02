@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
 
 ![jkpang's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=jkpang&hide=objective-c)
-![jkpang's github stats](https://github-readme-stats.vercel.app/api?username=jkpang&show_icons=true)
+![jkpang's github stats](https://github-readme-stats.vercel.app/api?username=jkpang&show_icons=true&hide=contribs&count_private=true)
