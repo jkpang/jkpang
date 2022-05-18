@@ -24,8 +24,7 @@ jobs:
 
           # Options
           user: jkpang
-          repo: jkpang
-          template: repository
+          template: classic
           base: header, activity, repositories
           config_display: columns
           config_timezone: Asia/Shanghai
