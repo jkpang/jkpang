@@ -26,7 +26,6 @@ jobs:
           user: jkpang
           template: classic
           base: header, activity, repositories
-          config_display: columns
           config_octicon: yes
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
